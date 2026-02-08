@@ -6,7 +6,7 @@
 - **About local storages**
 - Please do not delete the file local_storage.json if you are using version 4 to 5 as this will affect the local storage functionality
 ## updates:
-**v1.0**:
+- **v1.0**:
   - made in 2026/1/25 12:51 (24-hour system)
   - no updates
 - **v2.0**:
