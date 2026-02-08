@@ -18,4 +18,12 @@ v5.0:
   added local time zone (24-hour system)
 
 and it was made by a Chinese people(I am the person myself)
-Copyright statement: Dependency file json.hpp please look at 
+Copyright statement: Dependency file json.hpp please look at https://raw.githubusercontent.com/nlohmann/json/develop/LICENSE.MIT
+
+## twoth Copyright statement!(Because I really don't want copyright disputes!)
+## Third-party Libraries
+
+This project uses:
+- **json.hpp** - [nlohmann/json](https://github.com/nlohmann/json)
+  - Licensed under MIT License
+  - Copyright (c) Niels Lohmann
