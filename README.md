@@ -18,3 +18,4 @@ v5.0:
   added local time zone (24-hour system)
 
 and it was made by a Chinese people(I am the person myself)
+Copyright statement: Dependency file json.hpp please look at 
