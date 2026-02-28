@@ -1,3 +1,4 @@
+!(OS icon)[MBOSicon.png]
 ## this is an new OS that called 'Malabodge'
 - and there is no Dependencys~ (awa, the ownly Dependency I still uploaded it on the respoties~)
 
