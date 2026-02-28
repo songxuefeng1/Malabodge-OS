@@ -1,3 +1,7 @@
+//author: @songxuefeng1
+//copyright @songxuefeng1
+//do not move the file without characters accept!
+
 #ifndef MALABODGE_LIVE_PLUGS_H
 #define MALABODGE_LIVE_PLUGS_H
 
@@ -97,5 +101,6 @@ namespace MB_LIVE {
         }
     }
 }
+
 
 #endif
