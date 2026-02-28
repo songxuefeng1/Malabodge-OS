@@ -21,6 +21,12 @@
 - **v5.0**:
   - made in 2026/2/8 10:24 (24-hour system)
   - added local time zone (24-hour system)
+- **v6.0**:
+  - made in 2026‎/2‎/‎28‎ ‏‎15:27 (24-hour system)
+  - **added voice code media(so that you can play sounds in the MB-OS(Malabodge OS))**
+    - information see at MEDIAS.md
+  - **added MB-OS Live Pugin**
+    - if you are this version or later, you had to include the ".hpp" files
 
 - and it was made by a Chinese people(I am the person myself)
 - Copyright statement: Dependency file json.hpp please look at https://raw.githubusercontent.com/nlohmann/json/develop/LICENSE.MIT
