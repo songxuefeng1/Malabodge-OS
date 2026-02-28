@@ -1,4 +1,4 @@
-!(OS icon)[https://github.com/songxuefeng1/Malabodge-OS/blob/main/MBOSicon.png]
+![MB-OS icon](https://github.com/songxuefeng1/Malabodge-OS/blob/main/MBOSicon.png "Malabodge OS")
 ## this is an new OS that called 'Malabodge'
 - and there is no Dependencys~ (awa, the ownly Dependency I still uploaded it on the respoties~)
 
