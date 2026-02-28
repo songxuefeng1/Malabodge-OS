@@ -1,3 +1,7 @@
+//author: @songxuefeng1
+//copyright @songxuefeng1
+//do not move the file without characters accept!
+
 #ifndef SPEAKERCONTROLLER_HPP
 #define SPEAKERCONTROLLER_HPP
 
@@ -249,5 +253,6 @@ private:
         return std::string(error_buf) + " (error code: " + std::to_string(error_code) + ")";
     }
 };
+
 
 #endif // SPEAKERCONTROLLER_HPP
