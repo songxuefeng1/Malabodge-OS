@@ -29,6 +29,10 @@
     - information see at MEDIAS.md
   - **added MB-OS Live Pugin**
     - if you are this version or later, you had to include the ".hpp" files
+- **v6.1(Beta Version)**
+  - made in 2026‎/3‎/14‎ ‏‎12:59 (24-hour system)
+  - reteryd all the fix of v6.0
+  - added 'console out ' command
 
 - and it was made by a Chinese people(I am the person myself)
 - Copyright statement: Dependency file json.hpp please look at https://raw.githubusercontent.com/nlohmann/json/develop/LICENSE.MIT
